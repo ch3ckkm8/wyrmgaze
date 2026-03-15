@@ -189,6 +189,10 @@ Every run prints a summary to the terminal:
 | 2   | port 80                                  | login             | guest                       |
 ...
 ```
+## Graph output
+Horizontal
+![[actions/actions_horizontal.svg]]
+
 
 ---
 
