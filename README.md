@@ -191,7 +191,7 @@ Every run prints a summary to the terminal:
 ```
 ## Graph output
 Horizontal
-![[actions/actions_horizontal.svg]]
+![][actions/actions_horizontal.svg]
 
 
 ---
