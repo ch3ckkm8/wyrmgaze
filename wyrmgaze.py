@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-wyrmgaze.py - Pentest action graph generator
+wyrmgaze.py - Attack chain graph generator
 
 Action file format — wrap the action in *asterisks*, everything before is
 input, everything after is result. Multiple inputs/results supported:
