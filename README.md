@@ -27,7 +27,7 @@
   \ /\ / | |_| || |   | | | | | || |_| (_| | (_| | / / |  __/                                                  
    \/\/   \__, ||_|   |_| |_| |_| \__, |\__,_|\__,_|/___|\___|                                                 
             |___/                     |___/                                                                    
-      [ pentest action graph generator ]    
+      [ attack chain graph generator ]    
 ```
 
 > *The wyrm watches. The wyrm traces. Every path from recon to root — mapped.*
